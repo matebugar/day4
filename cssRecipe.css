@@ -1,0 +1,74 @@
+.container {
+	width: 800px;
+	/* text-align: center; */
+	box-shadow: -1px 2px 5px gray;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+p {
+	color: #707070;
+}
+
+li {
+	color:  #707070;
+}
+
+header {
+	text-align: center;
+}
+
+h1 {
+	color: #DB0038;
+} 
+h2 {
+	color: #3998A3
+}
+ h3 {
+ 	color: #474747
+}
+.hero {
+	background-color: #f4f4f4;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+li {
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+span {
+	color: #F4B400;
+	font-size: 25px;
+}
+
+footer {
+	text-align: center;
+}
+.rating {
+	text-align: center;
+}
+body {
+	font-family: 'Happy Monkey', cursive;
+}
+
+/*Make the width of the DIV element with class of  "container" 800px and center it. 
+Additionally put shadows so it can be distinguished from the background (just left and right shadow). 
+Also insert a padding property with the value of 50px just for the left and right side.
+
+Change the color of all P and LI elements to #707070
+
+Align the text to the center in the header
+
+Style the headings with the following colors: h1 = #DB0038, h2 = #3998A3 and h3 = #474747
+
+Hero section- make the background color #f4f4f4 and center the text within this section.  
+Additionally make the padding at the bottom of this section 10px
+
+Insert the padding property to all LI element on the page with value of 5px at the bottom and 5px on the top
+
+Inside the rating section change the color of the special characters (stars) to #F4B400 and their size to 25px
+
+Center the content in the footer
+
+Apply the web-font "Happy Monkey" to the whole page*/
