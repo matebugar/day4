@@ -1,0 +1,36 @@
+body {
+  background-color: lightblue;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin-bottom: 40px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0066ff;
+  text-align: center;
+}
+
+#navlist li{
+	display: inline-block;	
+  padding: 25px;
+}
+
+li a {
+	text-decoration: none;
+  color: white;
+}
+
+#rain {
+height: 150px;
+margin-left: 280px;
+}
+
+#öst {
+  margin-left: 250px;
+}
+
+.articlelist {
+
+}
