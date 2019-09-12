@@ -1,0 +1,53 @@
+/* this is header section */
+.container {
+	width: 800px;
+	margin: 0 auto;
+	box-shadow: 0px 4px 4px black;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+p {
+	color: #707070;
+}
+
+li {
+	color: #707070;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+header {
+	text-align: center;
+}
+
+h1 {
+	color: #DB0038;
+}
+
+h2 {
+	color: #3998A3;
+}
+
+h3 {
+	color: #474747;
+}
+
+.hero {
+	background-color: #f4f4f4;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.rating {
+	color: #F4B400;
+	font-size: 25px;
+}
+
+footer {
+	text-align: center;
+}
+body {
+	font-family: 'Happy Monkey', cursive;
+
+}
